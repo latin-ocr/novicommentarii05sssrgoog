@@ -1,0 +1,31 @@
+Motvs FL-VIDORVM. 2932
+
+Scholion· 3.
+
+27. Eodem modoetiam in genere pro danii·
+tate· variabili q solutionem magis vnittttsaletn redde· ,
+te licet, introducendis duabus fttnstionibus arbitra· '
+tiis t et V quatuor variabilium x, y, z et t. 1³0·
+fitia enim earum differentiaiibus:
+
+dtzfdx÷cdy÷1tdz÷1dt et Α
+
+avzssdx÷nn÷ntnz÷nn
+
+conditioni raquifitae sequentes satisfacient talorest ·
+qztc÷HJK÷(H-t)L-(F÷G)M÷rnnana)-
+qu:(H÷1)L÷t1-Gdt1-(G÷HiN -t- Δ πίε, y, z)
+q n:(1÷F)M÷(F-H) N-(H÷1)K÷2 :(t, x, z)
+qnztt÷G)N÷(G-1)K-(1÷F)L÷n:(t,ayt Ι
+Tum neto etiam dnae pluresne huiusmodi sarmata
+
+inuicem coniungi potsunt, at hoc modo solutio non
+generalior fieri est censenda3 quia si alia ‘fundiio
+pro Τ sumta veluti T‘ cnm eadem V coniungatur,
+et talares inde oriundi ad hos respediue addantur,
+eadem prodit solutio, ac st statim pro T sumta
+fuiffet functio T-t-T‘, qnod idam de altera V est
+intelligendum, qnoniam commutationem admittunt..
+
+ 
+

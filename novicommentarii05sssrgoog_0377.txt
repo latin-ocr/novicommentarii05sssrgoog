@@ -1,0 +1,39 @@
+MOTVSFLVIDORVM. 319 ι
+
+Problema 27.
+
+54. Si cuiusque fluidi elementi ternae celeritates
+a, u, w euanescaut uires autem quaecunque fluidum fol·
+liciueut litteris P, Q, R indicatae, quoniam fluidum
+iu quiete permanere sumitur, pressionem fluidi tam
+in siugulis elementis, quam ad quoduis tempus a
+definito
+
+Soluti0.
+
+Statim apparet hanc hypothesin uzo, u: 0 ,uto
+primae aequatiouiffi- ΜΗ {RQ-2¹⁸ :0 satis
+
+facere Tum vem ob uzo, Vzo, W::0 altera
+aequatio hanc induit formam:
+
+Q.. -dex÷Qdy÷Rdz
+
+ex qua pesspicuum est hypothafin quietis ne locum
+quidem habere posse, niii uires P, Q, R ita fiut
+comparatae, ut formula de÷Qdy÷Rdz inte·
+grationem admittat. Si ergo eius integrale :S,
+vtfit dpzde, et quia tempusa constans est uisum-
+tum, integrale completum erit pzbS÷th ioco
+‚stilicet constantis functionem quamcunque temporis
+t adiiciendo. Pro eodem ergo momento pressio per
+totam fluidi maisam unice pendet a quantitate S,
+ita ut instratis aequilibrantis, . per qaae S eundem
+ubique habet valorem, preffio fit aequalis, quemad-
+modum in prima sectione de aequilibrio est osten· .
+sum. Numanum insupet patet, quod ibi nou est
+
+auno·
+
+ 
+
